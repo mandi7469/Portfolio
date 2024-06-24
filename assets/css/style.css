@@ -1,3 +1,25 @@
 body {
-    background-color: rgb(157, 19, 42);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+.menu-options {
+    list-style-type: none;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: "center";
+    padding: 16px;
+    color: aquamarine;
+    list-style-type: none;
 }
