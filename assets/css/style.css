@@ -18,8 +18,8 @@ a {
     padding: 16px;
     font-weight: 100px;
 }
-/*Navigation Image*/
 
+/*Navigation Image*/
 figure {
     margin: 0%;
     overflow: hidden;
@@ -29,45 +29,24 @@ figure {
 
 figure img {
     object-fit: cover; 
-  
 }
 
-
-/*
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+main {
+    background-color: rgb(214, 212, 212);
 }
-header {
+
+ .headings {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 70px;
-    background-color: rgb(42, 41, 41);
-    
-}
-
-#Amanda {
-    position: relative;
-    background-color: rgb(46, 204, 221);
-    padding: 10px;
-    padding-left: 30px;
-    
-}
-
-.menu-options {
-    list-style-type: none;
-}
-
-
-li {
-    float: left;
-}
-
-li a {
-    display: inline;
+    margin: 0% auto;
     padding: 20px;
-    color: rgb(46, 204, 221);
-    font-size: 16px;
+
 }
-    */
+
+.side-paragraphs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    
+}
+
+
