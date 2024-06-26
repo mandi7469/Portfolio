@@ -2,6 +2,7 @@
 body {
 font-family: sans-serif;
 margin: 0%;
+background-color: rgb(236, 233, 233);
 }
 
 header {
@@ -11,6 +12,28 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 70px;
+}
+
+.avatar > * {
+    margin-left: 10px;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    position: absolute; 
+    left: 10px;
+    top: 10px;
+    
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top: 10px;
 }
 
 #headshot {
@@ -38,23 +61,14 @@ figure img {
     object-fit: cover; 
 }
 
-main {
-    background-color: rgb(236, 233, 233);
-}
-
- .headings {
+.about-me {
     display: flex;
-    margin: 0% auto;
-    padding: 20px;
-
 }
 
 .side-paragraphs {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    
-    
+
 }
+
+
 
 
