@@ -16,7 +16,7 @@ This highlights my strongest work as well as the thought processes behind it.
 - When the page or veiw is resized on various screens and devices, it is responsive and adapts to the veiw port
 
 ## Link
-[Link to deplyed website](https://)
+[Link to deplyed website](https://mandi7469.github.io/Portfolio/)
 
 The image shows the web application's apperance 
 
