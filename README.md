@@ -20,7 +20,7 @@ This highlights my strongest work as well as the thought processes behind it.
 
 The image shows the web application's apperance 
 
-![alt text](assets/images/screenshot.png)
+![alt text](/assets/css/images/Amanda%20Changa%20Portfolio.jpg)
 
 
 ## License
